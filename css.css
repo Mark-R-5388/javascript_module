@@ -1,0 +1,19 @@
+* {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 1.25rem;
+  background: blue;
+  color: white;
+}
+
+.container {
+  background: green;
+}
+
+.btn-1 {
+  background: red;
+}
+
+.btn-2 {
+  background: black;
+}
